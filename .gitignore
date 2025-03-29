@@ -9,8 +9,8 @@ venv/
 .env
 .env.*
 
-# Poetry кеш
-.poetry/
+# idea files
+.idea/
 
 # Logs and temporary files
 *.log
