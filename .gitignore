@@ -1,3 +1,21 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
 .env
+.env.*
+
+# Poetry кеш
+.poetry/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Local config files
+*.local
